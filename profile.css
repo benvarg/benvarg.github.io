@@ -1,0 +1,19 @@
+body{
+	background-image:url(photo-1461301214746-1e109215d6d3.jpeg);
+	background-size: cover;
+}
+#body_1{
+	background-image: url(tumblr_odlmn40Fyf1ug2xp5o1_1280.jpg);
+	background-size: cover;
+}
+.card{
+	background-color: rgba(255,255,255,0.4);
+
+}
+.card-footer{
+	background-color: grey;
+}
+.jumbotron{
+	background-image: url(vitruvian_man_desktop_1491x805_hd-wallpaper-538653.jpg);
+	background-size: cover;
+}
